@@ -7,5 +7,6 @@ public class HelloEGit {
 		System.out.println("github hello 02");
 		System.out.println("回复 01");
 		System.out.println("回复 02");
+		System.out.println("github hello 02");
 	}
 }
